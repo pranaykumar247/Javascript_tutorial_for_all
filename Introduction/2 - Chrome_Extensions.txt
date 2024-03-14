@@ -1,0 +1,4 @@
+1. Create Features: Add new functionalities to Chrome
+2. Interact with Web: Modify or read webpage content.
+3. API Access: Use Chrome's built-in functionalities to.
+4. User Experience: Customizing the use case.

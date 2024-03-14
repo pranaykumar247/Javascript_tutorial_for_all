@@ -1,0 +1,10 @@
+## JS in Console
+
+1. Allows real-time editing of HTML/CSS/JS.
+2. Run Scripts: Test Code in Console.
+3. Debug: Locate and fix erros.
+4. Modify DOM(Document Object Model): Change webpage elements.
+    a. Change HTML
+    b. Change CSS
+    c. Perform Actions
+5. Erros: View error messages.
